@@ -26,9 +26,9 @@ p.p1{
 
 div.contain1{
     margin-left: 70px;
-    margin-top: 25px;
+    margin-top: 15px;
     border-radius: 10px;
-    background-image: url(/img/top.png);
+    background-image: url(img/top.png);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 4px 2px 3px 3px rgba(128, 128, 128, 0.301);
@@ -39,21 +39,22 @@ div.contain1{
 
 div.contain2{
     margin-left: 70px;
-    margin-top: 25px;
+    margin-top: 15px;
     border-radius: 10px;
-    background-image: url(/img/bmi.png);
+    background-image: url(img/bmi.png);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 4px 2px 3px 3px rgba(128, 128, 128, 0.301);
     width: 70%;
+    /* padding: 50%; */
     height: 250px;
     margin-bottom: 55px;
 }
 div.contain3{
     margin-left: 70px;
-    margin-top: 25px;
+    margin-top: 15px;
     border-radius: 10px;
-    background-image: url(/img/js-work.png);
+    background-image: url(img/js-work.png);
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 4px 2px 3px 3px rgba(128, 128, 128, 0.301);

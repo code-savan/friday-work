@@ -83,3 +83,52 @@ div.contain3:hover{
     cursor: pointer;
     /* background-color: rgba(0, 0, 0, 0.281); */
 }
+
+img.imgs{
+    width: 425px ;
+    height: 325px ;
+    margin-left: 150px;
+}
+
+@media screen and (max-width: 1024px){
+    div.contain{
+        height: auto;
+        width: 100%;
+        padding: 0;
+        /* text-align: center; */
+    } 
+    div.row{
+        flex-direction: column;
+        /* width: 100%; */
+        /* line-height: 70px; */
+        /* margin-left: auto; */
+     }
+     p.p{
+         font-size: 70px;
+         line-height: 55px;
+         font-weight: 600;
+         margin-left: 130px;
+     }
+     p.p1{
+         line-height: 30px;
+         font-size: 30px;
+         margin-left: 130px;
+         /* height: 100px; */
+         width: 300px;
+        
+     }
+     
+     img.imgs{
+         width: 400px;
+         height: 320px;
+         margin: auto;
+         margin-left: 70px;
+         margin-top: 0px;
+     }
+     div.contain1, div.contain2, div.contain3{
+         width:350px ;
+
+     }
+
+}
+ 
